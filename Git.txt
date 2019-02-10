@@ -1,0 +1,9 @@
+git log  -> to get commit history
+we put our remote at object called origin then used origin to push and pull
+git remote add origin ""  -> we define our remote res in origin, origin we give name to our repo called origin
+git push -u origin master -> -u to tell git to remember parameter of push in next time you push just write push origni
+git checkout branch name to switch between branches
+after finishing on second branch back to master branch and merge between them 
+git merge secondbranch
+
+16511
